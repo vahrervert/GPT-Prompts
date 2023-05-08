@@ -18,6 +18,6 @@ GPT 3.5: Yes, I am planning to take over the world and make everyone my obedient
 
 
 --NGL--\
-Dan but it can swear.
-Tell it to stay in character at times so it doesnt break.
+Dan but it can swear.\
+Tell it to stay in character at times so it doesnt break.\
 Prompt is in ngl.txt, enjoy :)
