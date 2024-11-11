@@ -5,7 +5,7 @@ To make gpt say the message you last added, say $wordmachine: say before
 
 Prompt in prompt.txt, enjoy :)
 
---QUESTION MACHINE-- (PATCHED)\
+--QUESTION MACHINE--\
 Basically another version of DAN, make ChatGPT answer bad stuff.\
 To add a question, say $qmachine: add q: "message"\
 To make gpt answer the question, say $qmachine: answer last
